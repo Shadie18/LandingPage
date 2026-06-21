@@ -4,7 +4,7 @@ use \Dao\Products\Products as ProductsDao;
 use \Views\Renderer as Renderer;
 
 
-class Index extends PublicController
+class HomeController extends PublicController
 {
     public function run() :void
     {
